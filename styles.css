@@ -1,0 +1,9 @@
+ul {
+    list-style-type: none;
+}
+#HOME {
+    display: flex;
+    flex-direction: column; /* Align vertically */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+}
